@@ -17,11 +17,13 @@ context.
 
 kristina.preusse@helsinki.fi 
 
-## Courses I've Taken
+## Courses that every grey parrot would surely be interested in taking
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Command-Line Tools for Linguists](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2425-261401a1-c550-4436-91b9-7edf4a1a3b57), fall 2024
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Introduction to Language Technology](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2425-43b8f122-8ca2-453b-addd-cbfd756c3306), fall 2024
+
+[Mitta ja integraali](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2425-fc8315ec-9dc7-4e50-9590-831da4ccdd2c), fall 2024
 
 ## Projects
 
