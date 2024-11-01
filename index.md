@@ -4,7 +4,9 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/parrot.jpeg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="assets/images/parrot.jpeg" alt="Photo" hspace="20" width="30%" align="right"/> Hey, so glad to see you!
+
+The handsome little fellow in the picture is an African grey parrot, a highly intelligent animal known for its cognitive and communicative abilities. Studies have shown that grey parrots can memorize sequences of numbers and may comprehend the mathematical concept of zero. Moreover, they are capable of learning colors and identifying objects, materials and shapes. Research suggests that grey parrots are capable of not only mimicking sounds but also learning words and phrases, which they often speak in correct context.
 
 ## The creator of this website can be found on
 
