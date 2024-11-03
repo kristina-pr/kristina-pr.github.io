@@ -27,6 +27,8 @@ kristina.preusse@helsinki.fi
 
 ## Projects
 
+[Here](https://github.com/kristina-pr/cmdline-course) you can find the Command-Line course GitHub project
+
 ## Misc. 
 
 [Here](https://en.wikipedia.org/wiki/Grey_parrot) you can learn more about grey parrots
