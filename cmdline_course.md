@@ -5,8 +5,15 @@ layout: default
 # KIK-LG221 Command-Line Tools for Linguists
 
 
-The course served as a practical introduction to the command-line environment (not only for linguists but also for everyone interested in learning how to use the command-line). An overview of what we learned during the course can be found below.
+The course served as a practical, compact introduction to the command-line environment (not only for linguists but also for everyone interested in learning how to use the command-line). An overview of what we learned during the course can be found below:
 
+| **Week 1**  |  Introduction to Command Line Environments  |
+| **Week 2**  |  Navigating a UNIX System                   |
+| **Week 3**  |  Basic Corpus Processing                    |
+| **Week 4**  |  Advanced Corpus Processing                 |
+| **Week 5**  |  Scripting and Configuration Files          |
+| **Week 6**  |  Installing and Running Programs            |
+| **Week 7**  |  Version Control                            | 
 
 ## Week 1: Introduction to Command Line Environments
 
@@ -55,9 +62,14 @@ The forth week was quite heavy. We continued working with text processing comman
 
 In my opinion, the fourth week was the most challenging and time-consuming but at the same time very rewarding in terms of learning.
 
+Below is a useful Regular Expressions Cheat Sheet created by Dave Child:
+
+![Regex](assets/images/regex.PNG)
+
+
 ## Week 5: Scripting and Configuration Files
 
-This week we learned the basics of scripting and practiced writing simple scripts. We learned how to use  the if statement and got acquainted with bash variables and command substitution. We also learned what the UNIX environment variables are, how to edit them and what this editing does. Moreover, we discovered how we can use the bash configuration files to make  the environment variable changes permanent.
+This week we learned the basics of scripting and practiced writing simple scripts. We learned how to use the if statement and got acquainted with bash variables and command substitution. We also learned what the UNIX environment variables are, how to edit them and what this editing does. Moreover, we discovered how we can use the bash configuration files to make  the environment variable changes permanent.
 
 ## Week 6: Installing and Running Programs
 
@@ -66,6 +78,7 @@ In the sixth week  we learned how to become the root user and got acquainted wit
 ## Week 7: Version Control
 
 In the seventh week we learned about the power of version control, a version control system called Git and a developer platform called GitHub. We learned how to create a repository on Github and clone this repository in a local computer. Furthermore, we practiced adding files to the local repository, committing changes and pushing the changes to a global Git repository. We also learned how to create Git branches, switch between them and how to merge a Git branch to master.
+
 
 ## Final assignment
 We learned how to build a website and how to publish it on GitHub pages. We practiced creating a CV on Overleaf and also tried out using a site generator Jekyll. Moreover, we learned the basics of writing and formatting syntax using Markdown.
