@@ -29,4 +29,4 @@ kristina.preusse@helsinki.fi
 
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Here](https://en.wikipedia.org/wiki/Grey_parrot) you can learn more about grey parrots 
