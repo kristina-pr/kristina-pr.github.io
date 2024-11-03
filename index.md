@@ -15,7 +15,11 @@ context.
 
 ## Contact
 
-kristina.preusse@helsinki.fi 
+kristina.preusse@helsinki.fi
+
+## CV
+
+One interesting [CV](assets/images/CV.pdf)
 
 ## Courses that every grey parrot would surely be interested in taking
 
