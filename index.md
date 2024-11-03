@@ -19,7 +19,7 @@ kristina.preusse@helsinki.fi
 
 ## CV
 
-One interesting [CV](assets/images/CV.pdf)
+One interesting [CV](docs/CV.pdf)
 
 ## Courses that every grey parrot would surely be interested in taking
 
