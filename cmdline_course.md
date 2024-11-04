@@ -85,11 +85,11 @@ This week we learned the basics of scripting and practiced writing simple script
 
 Below are three aliases that I have been using:
 
-* alias la="ls -al"
+* `alias la="ls -al"`
 
-* alias ..="cd .."
+* `alias ..="cd .."`
 
-* alias l="less"
+* `alias l="less"`
 
 
 ## Week 6: Installing and Running Programs
