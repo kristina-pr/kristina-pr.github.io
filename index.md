@@ -35,6 +35,10 @@ One interesting [CV](docs/CV.pdf)
 
 ## Misc. 
 
+<<<<<<< HEAD
 [Here](https://en.wikipedia.org/wiki/Grey_parrot) you can learn more about grey parrots
 
 [Here](https://news.harvard.edu/gazette/story/2020/07/african-grey-parrot-outperforms-children-and-college-students/) you can read about a grey parrot outperforming Harvard students
+=======
+[Here](https://en.wikipedia.org/wiki/Grey_parrot) you can learn more about grey parrots 
+>>>>>>> cmdline-course
