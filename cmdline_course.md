@@ -15,6 +15,10 @@ The course served as a practical, compact introduction to the command-line envir
 | **Week 6**  |  Installing and Running Programs            |
 | **Week 7**  |  Version Control                            | 
 
+Here is a Command Line Cheat Sheet that we were provided:
+
+![Linux](assets/images/Linux.PNG)
+
 ## Week 1: Introduction to Command Line Environments
 
 The first week was about command-line basics. We learned how to set up the command-line and how to launch it. We also learned how to use some basic commands. For example, `ls` will list the contents of the current directory. We tried fetching contents from the internet to our home directory and also learned to view text files, create directories  and rename and move files. For example, `mv pg4511.txt life_of_bee.txt` will rename a file `pg4511.txt` into `life_of_bee.txt`. Moreover, we revised the concepts of a file and a text file and learned how to use a terminal-based text editor nano to view and edit text files.
@@ -79,7 +83,9 @@ In the sixth week  we learned how to become the root user and got acquainted wit
 
 In the seventh week we learned about the power of version control, a version control system called Git and a developer platform called GitHub. We learned how to create a repository on Github and clone this repository in a local computer. Furthermore, we practiced adding files to the local repository, committing changes and pushing the changes to a global Git repository. We also learned how to create Git branches, switch between them and how to merge a Git branch to master.
 
-
 ## Final assignment
 We learned how to build a website and how to publish it on GitHub pages. We practiced creating a CV on Overleaf and also tried out using a site generator Jekyll. Moreover, we learned the basics of writing and formatting syntax using Markdown.
 
+## Conclusion
+
+I had very limited knowledge of UNIX prior to this course and my main goal was to learn the fundamentals of command-line. I definitely achieved my goal as I have learned so much! The course was very worthwhile, well planned, and laid out in a clever way. All exercises were fun and beneficial to the entire learning process, at times demanding, but certainly manageable. Thank you so much for the great course!
